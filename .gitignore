@@ -3,6 +3,7 @@ DerivedDataCache
 Intermediate
 Saved
 Content/StarterContent
+*.DS_Store
 .vscode
 .vs
 *.VC.db
